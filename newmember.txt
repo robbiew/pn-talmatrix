@@ -1,0 +1,67 @@
+                ____________________ ___  __ _____ __ 5m__
+                \      \  !   |   _/^\  \|  |     |  \_/  |
+                <_  />  | :   |  _>__|      |  :  |       |
+                 |   __/      |     <|      |  !  |  \_/  |
+                 |___\|___|___|_____/___\___|_ ___|___|___|
+------------------------------------------------------------------------------
+                   		   p r o d u c t i o n s 
+------------------------------------------------------------------------------
+                          NEW MEMBER REGISTRATION FORM
+------------------------------------------------------------------------------						  
+
+  >> General
+  ----------
+
+  Name/Alias:
+  Email Address:
+  Location (City/State or City/Country):
+
+
+
+
+  If you are a BBS MODDER please provide a list of BBS Software(s) that you 
+  develop for:
+
+
+
+
+
+
+  If you develop MODs/UTILS/Doors for a specific OS please click on all that
+  apply:
+
+  [ ] Windows (32bit/64bit)
+  [ ] Linux   (32bit/64bit)
+  [ ] MacOs
+  [ ] Amiga
+  [ ] C64
+  [ ] Other : __________________
+  
+
+  ----------------------------------------------------------------------------
+
+  >> BBS Related
+  --------------
+
+  Do you run a Bulletin Board System [ ] yes [ ] no ?
+
+  If you run a Bulletin Board System (BBS) please provide the BBS Name,
+  telnet address, and port.
+
+  BBS Name:
+  Telnet Address:
+  Port:
+
+  ----------------------------------------------------------------------------
+
+  >> PHENOM PRODUCTIONS RELEASE GUIDELINES
+  ----------------------------------------
+
+  All releases must include:
+  1) readme.1st
+  2) file_id.diz and file_id.ans
+
+  ----------------------------------------------------------------------------
+
+  Rename this file to {memreg-alias.txt} and email it to smooth@phenomprod.com
+  example: memreg-smooth.txt

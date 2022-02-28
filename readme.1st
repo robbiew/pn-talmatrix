@@ -1,0 +1,98 @@
+                ____________________ ___  __ _____ __ 5m__
+                \      \  !   |   _/^\  \|  |     |  \_/  |
+                <_  />  | :   |  _>__|      |  :  |       |
+                 |   __/      |     <|      |  !  |  \_/  |
+                 |___\|___|___|_____/___\___|_ ___|___|___|
+------------------------------------------------------------------------------
+                   		   p r o d u c t i o n s 
+------------------------------------------------------------------------------
+
+==============================================================================
+ >> RELEASE INFO:
+==============================================================================
+
+       name: Talisman Login Matrix
+   released: 2/28/2022
+    version: 1.0.0
+   filename: PN-TALMATRIX-V1.ZIP
+     author: aLPHA <PHENOM>
+       type: [X] mod   [ ] door   [ ] extra
+	     OS: [X] win   [X] linux   [ ] amiga
+		
+ bbs software: [ ] Mystic
+               [ ] Sychronet
+	       [ ] C-Net
+	       [ ] Enigma
+	       [ ] DayDream
+	       [ ] Renegade
+	       [X] Talisman
+			   
+==============================================================================
+ >> DESCRIPTION:
+==============================================================================
+
+Add a LOGIN MATRIX to your Talisman BBS! This Luascript add-on will help you 
+create your own unique experience for users to LOGIN or SIGNUP. 
+
+Or - add your own functions using Talisman's built-in Lua support.
+
+==============================================================================
+ >> ARCHIVE INCLUDES:
+==============================================================================
+
+** Phenom General Info
+----------------------
+readme.1st                      : Detailed information for this release.
+newmember.txt                   : NEW MEMBER (PHENOM PROD) Registration Form
+file_id.diz                     : ASCII Diz file for this release.
+file_id.ans                     : ANSI Diz file for this release.   
+  
+ 
+** Release Files
+----------------
+ 
+login.ua                             - main script
+gfiles/*                             - matrix ANSI art
+
+==============================================================================
+ >> PREREQUISITES:
+==============================================================================
+
+Talisman BBS v.36
+
+==============================================================================
+ >> INSTALLATION INSTRUCTIONS (STEP-BY-STEP):
+==============================================================================
+
+1) Copy login.lua to your Talisman scripts directory (e.g. /bbs/scripts)
+
+2) Copy art files to your Talisman gfiles directory (e.g. /bbs/gfiles)
+
+3) Replace with your own art/matrix funcs, get creative!
+
+Talisman will automatically execute login.lua if that file is present (FYI, you 
+can also execute a script BEFORE login.lua using `prelogin.lua`).
+
+==============================================================================
+ >> CHANGELOG (What's NEW?):
+==============================================================================
+
+** New Features
+---------------
+First release! Basic matrix login format and key command processing.
+
+
+** Bugfixes
+-----------
+
+==============================================================================
+ >> PHENOM DISTRIBUTION
+==============================================================================
+
+This and ALL PHENOM PRODUCTION releases can be found on numerous Bulletin 
+Board systems. All releases can also be located on the OFFICIAL PHENOM 
+PRODUCTION WEBSITE (https://www.phenomprod.com).
+
+==============================================================================
+ >> CREATED: February 28, 2022                         MODIFIED: n/a
+==============================================================================
